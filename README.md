@@ -22,7 +22,7 @@ I’m a Computer Science student who is focusing my efforts on better understand
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - ⚡ I'm looking out for internships in the AI field for the beginning of 2027  
   
@@ -31,11 +31,6 @@ I’m a Computer Science student who is focusing my efforts on better understand
   
 
 - 📚 I intend to expand my AI skills by studying reinforcement learning in the near future  
-
-
-</td><td valign="top" width="50%">
-
-
 
 </td></tr></table>  
 
