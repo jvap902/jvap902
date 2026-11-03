@@ -7,7 +7,7 @@ Computer Science student at the Federal University of Rio Grande do Sul (UFRGS).
 <a href="https://github.com/jvap902" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/joao-pereira-jvap/" target="_blank">
+<a href="www.linkedin.com/in/joao-pereira-jvap/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
@@ -27,10 +27,10 @@ I’m a Computer Science student who is focusing my efforts on better understand
 - ⚡ I'm looking out for internships in the AI field for the beginning of 2027  
   
 
-- 🌱 I’m interested in developing AI systems, specially more efficient ones  
+- 🌱 I’m interested in developing AI systems, especially more efficient ones  
   
 
-- 📚 I intend to expand my AI skills by studying about reinforcement learning in a near future  
+- 📚 I intend to expand my AI skills by studying reinforcement learning in the near future  
 
 
 </td><td valign="top" width="50%">
@@ -63,20 +63,6 @@ I’m a Computer Science student who is focusing my efforts on better understand
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="25" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
 </div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jvap902&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jvap902&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td></tr></table>  
 
 <br/>  
 
